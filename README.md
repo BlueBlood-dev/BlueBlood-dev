@@ -1,4 +1,6 @@
 ### Hi there 👋
+### ~I am  the frist year ITMO student
+### ~Currently preparing to learn cpp and make some web stuff
 
 <!--
 **BlueBlood-dev/BlueBlood-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
