@@ -15,7 +15,7 @@
 </a> </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/MainakRepositor">
+    <td><a href="https://github.com/BlueBlood-dev">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlueBlood-dev&theme=material-palenight&currStreakNum=4AD3DD" alt="BlueBlood-dev"/>
 </a></td> 
   </tr>
